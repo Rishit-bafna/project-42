@@ -32,7 +32,7 @@ function setup(){
     engine = Engine.create();
     world = engine.world;
 
-    createCanvas(500,1000);
+    createCanvas(400,700);
     umbrella = new Umbrella(200,500);
 
     //create drops
